@@ -1,0 +1,17 @@
+{
+    "platform": "windows64",
+    "jdk": "./jdk11-jre.zip",
+    "executable": "AstroShip",
+    "classpath": [
+        "./ict1009-team22-2022.jar"
+    ],
+    "removelibs": [
+        "./ict1009-team22-2022.jar"
+    ],
+    "mainclass": "com.spaceshooter.desktop.DesktopLauncher",
+    "vmargs": [
+       "Xmx1G"
+    ],
+    "minimizejre": "soft",
+    "output": "out-windows"
+}

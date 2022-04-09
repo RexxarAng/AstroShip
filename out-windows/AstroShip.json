@@ -1,0 +1,11 @@
+{
+  "jrePath": "jre",
+  "classPath": [
+    "ict1009-team22-2022.jar"
+  ],
+  "mainClass": "com.spaceshooter.desktop.DesktopLauncher",
+  "useZgcIfSupportedOs": false,
+  "vmArgs": [
+    "-Xmx1G"
+  ]
+}
